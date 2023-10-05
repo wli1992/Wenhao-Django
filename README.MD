@@ -26,3 +26,7 @@
 WTAMU Degree checklist is a helpful tool for both students and academic advisors to track progress toward completing a degree program.
 Clear path to graduation; academic planning; monitor progress; graduation timeliness.
 Applying technology to higher education institutions in the format of degree checklists.
+
+# Diagram
+
+![My chart](chart.png)
