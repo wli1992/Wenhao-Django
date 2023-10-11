@@ -28,5 +28,4 @@ Clear path to graduation; academic planning; monitor progress; graduation timeli
 Applying technology to higher education institutions in the format of degree checklists.
 
 # Diagram
-
-![My chart](chart.png)
+![Alt text](image.png)
